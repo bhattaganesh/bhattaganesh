@@ -111,13 +111,16 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">📊 GitHub Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhattaganesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=Ganesh Bhatta" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=bhattaganesh&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<p><img src="https://github-readme-stats.vercel.app/api?username=bhattaganesh&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=true&count_private=true&amp;count_private=false" alt=""><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhattaganesh&amp;theme=radical&amp;hide_border=false" alt=""><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhattaganesh&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=true&count_private=true&amp;count_private=false&amp;layout=compact" alt=""></p>
+<hr>
+<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=bhattaganesh&amp;icon=0&amp;color=0" alt=""></a></p>
 </div>
 
 ###
